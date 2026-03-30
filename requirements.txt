@@ -4,3 +4,5 @@ flask-socketio>=5.3.6
 pandas>=2.0.0
 openpyxl>=3.1.2
 xlrd>=2.0.1
+gunicorn
+eventlet
